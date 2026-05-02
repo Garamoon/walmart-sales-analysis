@@ -1,9 +1,9 @@
 # 🏢 Walmart Sales Analysis
 
 ## 📌 Overview
-This project analyzes Walmart sales data (2010–2012) to uncover trends in sales performance, seasonality, and store-level insights using Excel.
+This is my **first hands-on data analysis project**, where I analyzed Walmart sales data (2010–2012) to gain practical experience in data cleaning, exploratory data analysis (EDA), and dashboard creation using Excel.
 
-The project includes data cleaning, exploratory data analysis (EDA), and an interactive dashboard.
+The project focuses on uncovering sales trends, seasonal patterns, and store-level performance insights.
 
 ---
 
@@ -58,4 +58,4 @@ The project includes data cleaning, exploratory data analysis (EDA), and an inte
 ---
 
 ## 🚀 Outcome
-Delivered a comprehensive sales analysis and interactive dashboard to support business insights and performance tracking.
+Completed my first data analysis project, transforming raw data into actionable insights and building an interactive dashboard to support data-driven decision-making.
